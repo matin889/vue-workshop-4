@@ -1,0 +1,87 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "The Shawshank Redemption",
+      "year": 1994,
+      "genre": "drama",
+      "director": "Frank Darabont",
+      "actors": [
+        "Tim Robbins",
+        "Morgan Freeman",
+        "Bob Gunton",
+        "William Sadler",
+        "Clancy Brown",
+        "Gil Bellows"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "The Godfather",
+      "year": 1972,
+      "genre": "crime",
+      "director": "Francis Ford Coppola",
+      "actors": [
+        "Marlon Brando",
+        "Al Pacino",
+        "James Caan",
+        "Richard S. Castellano",
+        "Robert Duvall",
+        "Sterling Hayden"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "The Godfather: Part II",
+      "year": 1974,
+      "genre": "crime",
+      "director": "Francis Ford Coppola",
+      "actors": [
+        "Al Pacino",
+        "Robert Duvall",
+        "Diane Keaton",
+        "Robert De Niro",
+        "John Cazale",
+        "Talia Shire"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "The Dark Knight",
+      "year": 2008,
+      "genre": "action",
+      "director": "Christopher Nolan",
+      "actors": [
+        "Christian Bale",
+        "Heath Ledger",
+        "Aaron Eckhart",
+        "Michael Caine",
+        "Maggie Gyllenhaal",
+        "Gary Oldman"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Pulp Fiction",
+      "year": 1994,
+      "genre": "crime",
+      "director": "Quentin Tarantino",
+      "actors": [
+        "Tim Roth",
+        "Amanda Plummer",
+        "Laura Lovelace",
+        "John Travolta",
+        "Samuel L. Jackson",
+        "Phil LaMarr"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Schindler's List",
+      "year": 1993,
+      "genre": "biography",
+      "director": "Steven Spielberg",
+      "actors": ["Liam Neeson", "Ben Kingsley", "Ralph"]
+    }
+  ]
+}
